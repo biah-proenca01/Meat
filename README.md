@@ -1,2 +1,2 @@
 # Meat
-restaurante de carne da Beatriz
+restaurante de carnes
